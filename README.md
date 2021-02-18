@@ -10,6 +10,8 @@ We want to highlight that while these estimates are based on the best available 
 
 Please visit the [full repository](https://github.com/youyanggu/covid19_projections/tree/master/infection_estimates) for column descriptions.
 
+See our methodology: [Estimating True Infections Revisited](http://covid19-projections.com/estimating-true-infections-revisited).
+
 ## Other Repositories
 
 - [Historical CDC Vaccination Data](https://github.com/youyanggu/covid19-cdc-vaccination-data)
