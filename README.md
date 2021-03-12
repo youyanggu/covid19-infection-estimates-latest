@@ -1,5 +1,7 @@
 # US Latest Infection Estimates
 
+**March 8, 2021 Update:** We made our last daily update on March 7. This repository will no longer be maintained. Read Youyang Gu's [One Year Later](https://youyanggu.com/blog/one-year-later) blog post for a detailed explanation and for a list of alternate resources.
+
 This is the repository containing the data for US national, state, and county level true infection estimates from [covid19-projections.com](https://covid19-projections.com/). For a detailed methodology, see [here](https://covid19-projections.com/estimating-true-infections-revisited/).
 
 For historical national and state level estimates, visit our [full repository](https://github.com/youyanggu/covid19_projections/tree/master/infection_estimates).
