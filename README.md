@@ -16,8 +16,8 @@ See our methodology: [Estimating True Infections Revisited](http://covid19-proje
 
 ## Other Repositories
 
+- [Main Repository](https://github.com/youyanggu/covid19_projections)
 - [Historical CDC Vaccination Data](https://github.com/youyanggu/covid19-cdc-vaccination-data)
-- [Main data repository](https://github.com/youyanggu/covid19_projections)
 - [COVID-19 datasets](https://github.com/youyanggu/covid19-datasets)
 - [SEIR Simulator](https://github.com/youyanggu/yyg-seir-simulator)
 - [Model Evaluations](https://github.com/youyanggu/covid19-forecast-hub-evaluation)
